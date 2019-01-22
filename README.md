@@ -57,7 +57,7 @@ window.onload = function() {
 </div>
 ```
 
-Example
+Methods
 --------------------------
 
 At the moment I've only added the one method as I've written this script for a specific project. If you need/want any additional methods written, just ask!
