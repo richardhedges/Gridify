@@ -69,6 +69,9 @@ At the moment I've only added the one method as I've written this script for a s
 
 Method | Argument | Description
 ------ | -------- | -----------
+init | | Initialises Gridify
+destroy | | Destroys the Gridify instance
+reInit | | Reinitialises the Gridify instance
 appendElements | items: Array of objects (DOM object, element height) | Appends elements to the end of the grid
 
 ---
