@@ -14,6 +14,7 @@ Features
 Upcoming
 --------
 * __Responsive Columns:__ I plan to introduce responsive columns at some point, allowing for more flexible columns across different viewport sizes.
+* __Unbalanced Columns:__ I'll add a balanced argument allowing you to disable auto balancing.
 
 Example
 --------------------------
