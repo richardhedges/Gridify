@@ -11,6 +11,10 @@ Features
 * __Media Queries:__ You can write your own media queries to manipulate the grid how you like
 * __Balanced Columns:__ One of the biggest let downs of all other masonry-like scripts is the lack of balanced columns - this script has those!
 
+Upcoming
+--------
+* __Responsive Columns:__ I plan to introduce responsive columns at some point, allowing for more flexible columns across different viewport sizes.
+
 Example
 --------------------------
 
