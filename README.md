@@ -72,7 +72,8 @@ Method | Argument | Description
 init | | Initialises Gridify
 destroy | | Destroys the Gridify instance
 reInit | | Reinitialises the Gridify instance
-appendElements | items: Array of objects (DOM object, element height) | Appends elements to the end of the grid
+appendElements | items: Array of DOM objects | Appends elements to the end of the grid
+appendItem | item: DOM object, index: integer | Append element to end of the grid<br>Index is used upon destroy
 
 ---
 
